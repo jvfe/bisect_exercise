@@ -1,6 +1,6 @@
 # comment to obfuscate blame
 def animal():
-    print("Meow!") # comment to obfuscate blame
+    print("Meow!")
 
 if __name__ == "__main__":
     animal()
